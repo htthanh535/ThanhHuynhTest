@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-01T13:41:27 ICT" name="Suite" finished-at="2024-12-01T13:42:15 ICT" duration-ms="47589">
+    <groups>
+      <group name="test2">
+        <method signature="OnstoveTest.test2ClosePopup()[pri:0, instance:SmilegateProject.MavenTest.OnstoveTest@2df9b86]" name="test2ClosePopup" class="SmilegateProject.MavenTest.OnstoveTest"/>
+      </group> <!-- test2 -->
+      <group name="test3">
+        <method signature="OnstoveTest.test3ValidateAnItemInDropdownList()[pri:1, instance:SmilegateProject.MavenTest.OnstoveTest@2df9b86]" name="test3ValidateAnItemInDropdownList" class="SmilegateProject.MavenTest.OnstoveTest"/>
+      </group> <!-- test3 -->
+    </groups>
+    <test started-at="2024-12-01T13:41:27 ICT" name="Test" finished-at="2024-12-01T13:42:15 ICT" duration-ms="47589">
+      <class name="SmilegateProject.MavenTest.OnstoveTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:SmilegateProject.MavenTest.OnstoveTest@2df9b86]" started-at="2024-12-01T13:41:26 ICT" name="setup" finished-at="2024-12-01T13:41:27 ICT" duration-ms="1862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test2ClosePopup()[pri:0, instance:SmilegateProject.MavenTest.OnstoveTest@2df9b86]" started-at="2024-12-01T13:41:27 ICT" name="test2ClosePopup" finished-at="2024-12-01T13:41:50 ICT" duration-ms="22847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2ClosePopup -->
+        <test-method signature="test3ValidateAnItemInDropdownList()[pri:1, instance:SmilegateProject.MavenTest.OnstoveTest@2df9b86]" started-at="2024-12-01T13:41:50 ICT" name="test3ValidateAnItemInDropdownList" finished-at="2024-12-01T13:41:54 ICT" duration-ms="3766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3ValidateAnItemInDropdownList -->
+        <test-method signature="test4ValidateTheTotalItemsInSearchResult()[pri:2, instance:SmilegateProject.MavenTest.OnstoveTest@2df9b86]" started-at="2024-12-01T13:41:54 ICT" name="test4ValidateTheTotalItemsInSearchResult" finished-at="2024-12-01T13:42:09 ICT" duration-ms="14528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4ValidateTheTotalItemsInSearchResult -->
+        <test-method signature="test5ValidateHoverFeature()[pri:3, instance:SmilegateProject.MavenTest.OnstoveTest@2df9b86]" started-at="2024-12-01T13:42:09 ICT" name="test5ValidateHoverFeature" finished-at="2024-12-01T13:42:15 ICT" duration-ms="6403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5ValidateHoverFeature -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:SmilegateProject.MavenTest.OnstoveTest@2df9b86]" started-at="2024-12-01T13:42:15 ICT" name="closeBrowser" finished-at="2024-12-01T13:42:16 ICT" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- SmilegateProject.MavenTest.OnstoveTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
